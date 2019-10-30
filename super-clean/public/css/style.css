@@ -853,12 +853,12 @@ footer {
 }
 
 /* google plus */
-.icon-border.googleplus:hover::before {
-    -webkit-box-shadow: inset 0 0 0 48px #d34836;
-    -moz-box-shadow: inset 0 0 0 48px #d34836;
-    -o-box-shadow: inset 0 0 0 48px #d34836;
-    -ms-box-shadow: inset 0 0 0 48px #d34836;
-    box-shadow: inset 0 0 0 48px #d34836;
+.icon-border.instagram:hover::before {
+    -webkit-box-shadow: inset 0 0 0 48px #8a3ab9;
+    -moz-box-shadow: inset 0 0 0 48px #8a3ab9;
+    -o-box-shadow: inset 0 0 0 48px #8a3ab9;
+    -ms-box-shadow: inset 0 0 0 48px #8a3ab9;
+    box-shadow: inset 0 0 0 48px #8a3ab9;
 }
 
 /* rss */
